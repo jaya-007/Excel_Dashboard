@@ -29,14 +29,14 @@
 
 8. Identified the highest selling category.
 
-Insights from the Analysis:
+### Insights from the Analysis:
 
--> Women are the primary customers, accounting for around 65% of purchases.
--> The top three states in terms of sales are Maharashtra, Karnataka, and Uttar Pradesh.
--> The age group contributing the most to sales is adults aged 30-49 years, accounting for approximately 50% of sales.
--> The majority of orders are coming from Amazon, Flipkart, and Myntra, with Amazon being the highest contributor.
+*Women are the primary customers, accounting for around 65% of purchases.
+*The top three states in terms of sales are Maharashtra, Karnataka, and Uttar Pradesh.
+*The age group contributing the most to sales is adults aged 30-49 years, accounting for approximately 50% of sales.
+*The majority of orders are coming from Amazon, Flipkart, and Myntra, with Amazon being the highest contributor.
 
-Final Recommendations to Improve 'VRINDA STORE' Sales:
+### Final Recommendations to Improve 'VRINDA STORE' Sales:
 
 *Target women customers aged 30-49 years living in Maharashtra, Karnataka, and Uttar Pradesh.
 
