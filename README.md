@@ -1,4 +1,4 @@
-![Vrinda Store Report](https://github.com/gouriram/Excel_Dashboard/assets/111121699/1f7bc22c-ede8-41f8-ba20-0f7f91c34f03)
+![Vrinda Store Report](![Screenshot (681)](https://github.com/user-attachments/assets/ea016918-15d0-4161-a7bc-304ca9b7aa2c)
 # Excel_Dashboard
 ### Project focused on analyzing data from 'VRINDA STORE,' an offline clothing store with online sales channels.
 ## Objective:	
