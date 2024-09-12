@@ -1,5 +1,5 @@
-Vrinda Store Report(![Screenshot (681)](https://github.com/user-attachments/assets/ea016918-15d0-4161-a7bc-304ca9b7aa2c)
-# Excel_Dashboard
+# Vrinda Store Report![Screenshot (681)](https://github.com/user-attachments/assets/ea016918-15d0-4161-a7bc-304ca9b7aa2c)
+## Excel_Dashboard
 ### Project focused on analyzing data from 'VRINDA STORE,' an offline clothing store with online sales channels.
 ## Objective:	
 ### Vrinda store wants to create an annual sales report for 2022.So that, Vrinda can understand their customers and grow more sales in 2023.													
